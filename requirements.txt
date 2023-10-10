@@ -1,0 +1,11 @@
+diffusers
+transformers
+accelerate
+xformers
+streamlit
+Pillow
+qrcode
+filelock
+
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
